@@ -1,5 +1,5 @@
-john_doe:securepass456
-alice_wonder:wonderland789
-tech_guru:innovate2024
-vision_master:visiontv999
-1:2
+john_doe:securepass456 john_doe=null
+alice_wonder:wonderland789 alice_wonder=null
+tech_guru:innovate2024 tech_guru=null
+vision_master:visiontv999 vision_master=http://sunxottrun.cfd:80/get.php?username=Ahmet123&password=ahmet123&type=m3u_plus
+1:2 1=http://sunxottrun.cfd:80/get.php?username=Ahmet123&password=ahmet123&type=m3u_plus
